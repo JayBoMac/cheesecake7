@@ -9,7 +9,7 @@ body {
 }
 
 .navbar-fixed-top .nav {
-    padding: 15px 0;
+    padding: 15px ;
 }
 
 .navbar-inverse{
@@ -32,9 +32,8 @@ background:#000;
     color:#fff;
 }
 
-.navbar-fixed-top .navbar-brand {
-    padding: 0 15px;
-}
+
+
 .jumbotron{
     
     padding:10px;
@@ -88,6 +87,6 @@ p.list-group-item-text{
     }
 
     .navbar-fixed-top .navbar-brand {
-        padding: 15px 0;
+        padding: 15px 10px;
     }
 }
