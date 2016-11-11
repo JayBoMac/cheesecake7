@@ -16,7 +16,7 @@ body {
 background-color:#818181;
 }
 .btn{
-    background:#069;
+    background:#000;
     color:#fff;
 }
 .navbar-inverse .navbar-nav > li >a{
@@ -75,7 +75,7 @@ p.list-group-item-text{
     color: #fff;
 }
 .modal-body {
-    background-color: #f33;
+    background-color: #000;
 }
    
 @media(min-width:768px) {
