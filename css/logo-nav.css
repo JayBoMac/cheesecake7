@@ -19,12 +19,16 @@ background-color:#818181;
     background:#000;
     color:#fff;
 }
-.navbar-inverse .navbar-nav > li >a{
+.navbar-inverse .navbar-nav > li > a{
     color:#fff;
 }
 
-.navbar-inverse .navbar-nav >li >a:active{
+.navbar-inverse .navbar-nav > .active {
     background:#000;
+    color:#fff;
+}
+navbar-inverse  .navbar-nav> li> a: hover{
+background:#000;
     color:#fff;
 }
 
